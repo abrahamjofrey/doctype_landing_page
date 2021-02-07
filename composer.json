@@ -10,7 +10,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "livewire/livewire": "dev-master",
+    "livewire/livewire": "2.3.0",
     "intervention/image": "^2.4@dev",
     "realrashid/sweet-alert": "dev-master",
     "binarytorch/larecipe": "v2.3.0"
